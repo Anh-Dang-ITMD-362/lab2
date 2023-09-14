@@ -1,7 +1,10 @@
+html{
+  background-color: lavender;
+}
 form {
   background-color: lavenderblush;
 }
 
-input[type=text]{
-  width:fit-content;
+input[type=email]{
+  width:auto;
 }
