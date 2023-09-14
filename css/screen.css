@@ -8,6 +8,7 @@ form {
 }
 input[type=email]{
   width:auto;
+  resize: vertical;
 }
 h1{
   text-align: center;
@@ -19,5 +20,8 @@ h1{
   padding-bottom: 40px;
 }
 #button{
-  align-items: center;
+  text-align: center;
+}
+label{
+  display: inline-block;
 }
