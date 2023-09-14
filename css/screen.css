@@ -34,3 +34,6 @@ h1{
 label{
   display: inline-block;
 }
+p{
+  text-align: center;
+}
