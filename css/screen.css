@@ -1,14 +1,20 @@
+*{
+  box-sizing: border-box;
+}
 html{
   background-color: rgb(241, 230, 250);
 }
 form {
   background-color: lavenderblush;
   margin: 0 10%;
-  padding: 20px;
+  padding: 1.5em;
 }
-input[type=email]{
+input{
   width:auto;
-  resize: vertical;
+  border-radius: 4px;
+  border-color:pink;
+  border-style: solid;
+  padding: 5px;
 }
 h1{
   text-align: center;
