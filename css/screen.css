@@ -3,8 +3,13 @@ html{
 }
 form {
   background-color: lavenderblush;
+  margin: 10%;
 }
 
 input[type=email]{
   width:auto;
+}
+
+h1{
+  text-align: center;
 }
