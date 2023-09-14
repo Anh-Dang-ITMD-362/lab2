@@ -1,3 +1,7 @@
 form {
-  
+  background-color: lavenderblush;
+}
+
+input[type=text]{
+  width:fit-content;
 }
