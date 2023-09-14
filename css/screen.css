@@ -15,3 +15,9 @@ h1{
 .title{
   padding: 10px 0;
 }
+#birthday{
+  padding-bottom: 40px;
+}
+#button{
+  align-items: center;
+}
