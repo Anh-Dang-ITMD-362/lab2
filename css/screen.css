@@ -4,12 +4,14 @@ html{
 form {
   background-color: lavenderblush;
   margin: 0 10%;
+  padding: 20px;
 }
-
 input[type=email]{
   width:auto;
 }
-
 h1{
   text-align: center;
+}
+.title{
+  padding: 10px 0;
 }
