@@ -58,7 +58,7 @@ label{
     margin-right: auto;
     font-size: 32px;
     border-radius: 10px;
-    background-color: lavenderblush;
+    background-color: rbg(255,240,245);
     height: 50px;
     padding-top: 9px;
   }
