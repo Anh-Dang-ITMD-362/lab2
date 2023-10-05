@@ -46,10 +46,6 @@ h1{
 label{
   display: inline-block;
 }
-#thank_you_note{
-  text-align: center;
-  margin-top: 5em;
-}
 
 
 @media screen and (min-width: 620px){
