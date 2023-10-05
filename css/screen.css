@@ -68,6 +68,7 @@ label{
     background-color: aliceblue;
     border-radius: 20px;
     color: rgb(174, 174, 174);
+    padding: 5px 10px;
   }
   input[type=submit]{
     color:rgb(60, 80, 100);
